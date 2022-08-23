@@ -1,0 +1,19 @@
+body {
+    background: black;
+}
+.container{
+    background: white;
+    width: 500px;
+    margin: 0px auto;
+}
+.header, .iconos{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.descrip{
+    padding: 10px;
+}
+.margen{
+    margin-top: 20px;
+}
